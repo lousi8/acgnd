@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 萌新轻小说-最新日本轻小说--日本亚马逊Kindle商店样书试读
 
-You can use the [editor on GitHub](https://github.com/lousi8/acgnd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本站专注于收集乙女向的ACGND内容分享,尤其是最新日本轻小说类资源的分享,目前已收集到日本最主要的6大乙女向轻小说文库在亚马逊Kindle商店出售的试读版共 11616本(最后更新于2017-03-22),请欣赏甜蜜浪漫的少女爱情故事吧~
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
